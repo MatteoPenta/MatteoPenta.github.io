@@ -1,7 +1,6 @@
 ---
 title: LLM foundation
 draft: true
-date: "101020232233"
 tags:
   - course
   - to_begin

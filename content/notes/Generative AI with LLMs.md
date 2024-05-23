@@ -1,7 +1,6 @@
 ---
 title: Generative AI with LLMs
 draft: true
-date: "281120232114"
 tags:
   - course
   - work_in_progress

@@ -1,7 +1,6 @@
 ---
 title: Reinforcement Learning from Human Feedback
 draft: true
-date: "202311282123"
 tags:
   - concept
 related:

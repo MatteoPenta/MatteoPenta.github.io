@@ -1,7 +1,6 @@
 ---
 title: Attention-UNet
 draft: false
-date: "201020231134"
 tags:
   - review
 related:
