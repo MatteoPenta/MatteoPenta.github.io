@@ -1,4 +1,6 @@
 ---
+title: LeetCode common coding patterns
+draft: true
 tags:
   - leetcode
   - work_in_progress

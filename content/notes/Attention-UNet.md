@@ -1,9 +1,12 @@
 ---
+title: Attention-UNet
+draft: false
 date: "201020231134"
 tags:
   - review
 related:
 ---
+
 # Attention-UNet
 - General idea: focus *more* on the "important" parts of an image, focus *less* on what is not important.
 - Technical idea: highlight only the relevant *activations* during training.

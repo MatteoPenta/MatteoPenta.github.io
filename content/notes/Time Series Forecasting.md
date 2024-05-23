@@ -1,4 +1,6 @@
 ---
+title: Time Series Forecasting
+draft: false
 tags:
   - hub
 related: "[[Machine Learning]]"

@@ -1,4 +1,6 @@
 ---
+title: Working Memory
+draft: true
 tags:
   - tasks
 related: "[[Tasks Management]]"

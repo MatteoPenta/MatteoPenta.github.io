@@ -1,4 +1,6 @@
 ---
+title: How Diffusion Models Work
+draft: true
 date: "101020232238"
 tags:
   - course

@@ -1,6 +1,6 @@
 ---
-links:
-  - https://opensource.guide/how-to-contribute/
+title: How To Contribute To Open Source
+draft: false
 tags:
   - reference
   - work_in_progress
@@ -71,5 +71,6 @@ timestamp: "202405201535"
 
 ## What happens after you submit a contribution
 
+---
 # References
---- 
+- https://opensource.guide/how-to-contribute/

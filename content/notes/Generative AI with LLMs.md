@@ -1,4 +1,6 @@
 ---
+title: Generative AI with LLMs
+draft: true
 date: "281120232114"
 tags:
   - course
@@ -6,7 +8,7 @@ tags:
 related:
   - "[[Generative AI]]"
 ---
-# Generative AI with LLMs
+# Generative AI with LLMs - Coursera course
 ## Links
 - [Coursera page](https://www.coursera.org/learn/generative-ai-with-llms/)
 ---

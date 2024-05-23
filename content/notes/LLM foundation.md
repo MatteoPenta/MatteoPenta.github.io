@@ -1,7 +1,8 @@
 ---
+title: LLM foundation
+draft: true
 date: "101020232233"
 tags:
-  - idea
   - course
   - to_begin
 related:

@@ -1,7 +1,7 @@
 ---
+title: PySpark Notebook via Azure VM
+draft: false
 tags:
-  - note
-  - learning
   - procedure
 related: 
 timestamp: "202405011811"

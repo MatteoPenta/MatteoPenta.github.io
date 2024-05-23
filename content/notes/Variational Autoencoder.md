@@ -1,6 +1,8 @@
 ---
+title: Variational Autoencoder
+draft: false
 tags:
-  - note
+  - work_in_progress
 related: 
 timestamp: "202405221719"
 ---

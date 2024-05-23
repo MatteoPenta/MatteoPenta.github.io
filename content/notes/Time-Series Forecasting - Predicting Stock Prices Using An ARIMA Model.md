@@ -1,4 +1,6 @@
 ---
+title: Time-Series Forecasting - Predicting Stock Prices Using An ARIMA Model
+draft: false
 tags:
   - note
   - guide

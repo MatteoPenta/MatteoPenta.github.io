@@ -15,8 +15,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "matteopenta.github.io",
+    ignorePatterns: ["private", "templates", ".obsidian", "daily"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",

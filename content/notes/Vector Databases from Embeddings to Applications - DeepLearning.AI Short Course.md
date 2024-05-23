@@ -1,5 +1,6 @@
 ---
-links: https://learn.deeplearning.ai/courses/vector-databases-embeddings-applications/lesson/1/introduction
+title: Vector Databases from Embeddings to Applications - DeepLearning.AI Short Course
+draft: false
 tags:
   - reference
   - course
@@ -41,3 +42,4 @@ timestamp: "202405221549"
 
 ---
 # References
+- [DeepLearning.ai course page](https://learn.deeplearning.ai/courses/vector-databases-embeddings-applications/lesson/1/introduction)
