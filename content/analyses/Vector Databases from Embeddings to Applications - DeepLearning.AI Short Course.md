@@ -2,7 +2,6 @@
 title: Vector Databases from Embeddings to Applications - DeepLearning.AI Short Course
 draft: false
 tags:
-  - reference
   - course
   - work_in_progress
 related:

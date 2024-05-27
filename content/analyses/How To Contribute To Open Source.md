@@ -2,8 +2,8 @@
 title: How To Contribute To Open Source
 draft: false
 tags:
-  - reference
   - work_in_progress
+  - article
 related:
   - "[[Open Source]]"
 timestamp: "202405201535"
