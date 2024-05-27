@@ -15,6 +15,7 @@ I organized my digital garden into the following three main folders:
 
 What will be made public in this blog will most likely be the content of the `analyses` and `notes` folders, as anything in the `inbox` folder would be too unorganized and pointless to be published.
 
+%% 
 # Recent writing
 Below are the last 5 modified notes, with the `timestamp` field reporting the last edit date in the format: `YYYYMMDDhhmm`.
 ```dataview
@@ -22,4 +23,5 @@ TABLE timestamp, file.folder AS "folder"
 FROM "notes" OR "analyses"
 SORT timestamp DESC
 LIMIT 5
-```
+``` 
+%%
