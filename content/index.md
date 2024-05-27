@@ -13,6 +13,6 @@ I organized my digital garden into the following three main folders:
 - **analyses**: folder containing the output of my learning process applied to various external learning resources, like online courses, books, articles etc. General concepts and ideas stemming from these analyses may be later distilled into proper notes.
 - **notes**: self-sufficient, linked, atomic notes. Basically, the product of my thinking. These notes will evolve over time.
 
-What will be made public in this blog will most likely be the content of the *analyses* and *notes* folders, as anything in the *inbox* folder would be too unorganized and pointless to be published.
+What will be made public in this blog will most likely be the content of the `analyses` and `notes` folders, as anything in the `inbox` folder would be too unorganized and pointless to be published.
 
 # Recent writing
