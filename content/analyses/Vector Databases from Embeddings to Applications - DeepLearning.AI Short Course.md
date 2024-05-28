@@ -51,12 +51,28 @@ timestamp: "202405221549"
 	- It's a proper distance metric, as lower values mean "closer" vectors.
 
 ## Search for similar vectors
+- **Semantic / vector search**: encoding searchable information into vectors, which are then compared to determine which are most similar.
+
+### K Nearest Neighbours (KNN)
+- "Brute force" approach to vector search: find and sort the distance of *all* vectors to the target vector. Then, return the K best matches.
 
 ## Approximate nearest neighbours
+### Navigable Small World (NSW) data structure
+
+### Hierarchical NSW (HNSW) data structure
 
 ## Vector databases
+- Weviate is an open source vector database. It can be used to perform semantic search and it supports [[CRUD]] operations.
 
-## Sparse, dense and hybrid search
+## Sparse, dense and hybrid search [^sparse_dense_search_opensearch]
+- **Dense Search (Semantic Search)**: uses vector embedding representation of data to perform search.
+	- Example: Dense vectors are commonly used in applications like natural language processing (NLP). For instance, word embeddings such as Word2Vec or BERT encode words into dense vectors that reflect their semantic similarities.
+	- Limitations:
+		- Out of domain data. When a dense encoder trained on one dataset is used on a different dataset, the encoder often performs poorly on unfamiliar content
+		- Higher computational costs.
+- **Sparse Search**: text is embedded into sparse (having mostly zero elements) vectors by counting how many times every unique word in the *vocabulary* occurs in the query and the stored sentences.
+	- Example: [[Term frequency-inverse document frequency (TF-IDF)]] vectors used in text retrieval are sparse. A document vector in a TF-IDF matrix has non-zero entries only for the terms that appear in the document, making it sparse. Also: ***Bag of Words***, used to perform keyword matching - i.e. counting how many times a word occurs in the query and data vector, and then returning objects with the highest matching words frequencies.
+- **Hybrid Search**: the process of performing both vector/dense search and keyword/sparse search, combining the results.
 
 ## Application - Multilingual search
 
@@ -65,3 +81,5 @@ timestamp: "202405221549"
 ---
 # References
 - [DeepLearning.ai course page](https://learn.deeplearning.ai/courses/vector-databases-embeddings-applications/lesson/1/introduction)
+
+[^sparse_dense_search_opensearch]: https://opensearch.org/blog/improving-document-retrieval-with-sparse-semantic-encoders/
